@@ -13,7 +13,7 @@
 3. 启动监控管理插件服务
 
 ```
-rabbitmq-plugins enable rabbitmq_management
+rabbitmq-plugins.bat enable rabbitmq_management
 
 ```
 
