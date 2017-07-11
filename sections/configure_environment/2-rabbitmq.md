@@ -1,4 +1,4 @@
-###rebbitmq安装
+### rebbitmq安装
 
 
 安装过程如下：
@@ -21,8 +21,10 @@ rabbitmq-plugins enable rabbitmq_management
 
 
  看到6个plugins已经安装接下来。
+ 
+ 
 
-4. 访问http://localhost:15672/#/（用户名：guest 密码：guest)查看rebbitmq信息
+4. 访问http://localhost:15672/#查看rebbitmq 信息
 
   ![avatar](https://raw.githubusercontent.com/wanglu1990/RabbitMQ/master/images/login_rebbitmq.png)
       
