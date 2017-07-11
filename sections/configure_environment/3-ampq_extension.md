@@ -26,7 +26,7 @@
 
 4.  修改apache配置文件httpd.conf，添加LoadFile  "C:/xampp/php/rabbitmq.1.dll"
 
-5.  重启apache
+5.  重启apache，phpinfo()查看下是否支持amqp扩展
 
     ![avatar](https://raw.githubusercontent.com/wanglu1990/RabbitMQ/master/images/amqp_extension.png)
 
