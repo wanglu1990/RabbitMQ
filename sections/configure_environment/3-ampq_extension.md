@@ -15,6 +15,10 @@
     
     ![avatar](https://raw.githubusercontent.com/wanglu1990/RabbitMQ/master/images/select_amqp_extension.png)
 
+
+    ![avatar](https://raw.githubusercontent.com/wanglu1990/RabbitMQ/master/images/download_amqpfile.png)
+
+
 ##### 安装方法如下：
 
 
