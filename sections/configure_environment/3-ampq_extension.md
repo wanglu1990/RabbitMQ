@@ -1,8 +1,8 @@
-###Windows下安装php扩展ampq
+### Windows下安装php扩展ampq
 
 
 
-#####安装前准备工作：
+##### 安装前准备工作：
 
 1.  查看本地PHP版本
 
@@ -15,7 +15,7 @@
     
 
 
-#####安装方法如下：
+##### 安装方法如下：
 
 
 1.  复制php_amqp.dll到php/ext，如C:\xampp\php\ext目录下
