@@ -13,7 +13,7 @@
     地址：<http://pecl.php.net/package/amqp>
     
     
-
+    ![avatar](https://raw.githubusercontent.com/wanglu1990/RabbitMQ/master/images/select_amqp_extension.png)
 
 ##### 安装方法如下：
 
