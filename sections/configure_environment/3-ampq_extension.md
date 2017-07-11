@@ -6,6 +6,8 @@
 
 1.  查看本地PHP版本
 
+    ![avatar](https://raw.githubusercontent.com/wanglu1990/RabbitMQ/master/images/phpinfo.png)
+
 2.  下载对应版本的ampq
     
     地址：<http://pecl.php.net/package/amqp>
@@ -25,3 +27,5 @@
 4.  修改apache配置文件httpd.conf，添加LoadFile  "C:/xampp/php/rabbitmq.1.dll"
 
 5.  重启apache
+![avatar](https://raw.githubusercontent.com/wanglu1990/RabbitMQ/master/images/amqp_extension.png)
+
